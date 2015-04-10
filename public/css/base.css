@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font: 200 1em 'Helvetica Neue';
+}
+
+input, textarea, button {
+    outline: none;
+    font: 200 1em 'Helvetica Neue';
+    border: 1px solid #eee;
+    padding: 0.35em 0.5em;
+}
+
+button {
+    font-size: 0.9em;
+    background-color: #eee;
+    text-shadow: 1px 1px 1px white;
+}
+
+button:hover {
+    background-color: #aaa;
+}
